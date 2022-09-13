@@ -13,7 +13,8 @@ Code Monkey Jr
 
 Beaver Achiever
 
-Course 2
+![Course 2](https://user-images.githubusercontent.com/107865829/189854823-e361b2c4-6ec9-4097-9d7a-d16630f01ea7.PNG)
+
 
 Space Adventure
 
