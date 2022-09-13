@@ -1,4 +1,4 @@
-<oktawijaya> - <26311874>
+oktawijaya-26311874>
 
 _Progress Assignment Algorithm_:
 - [X] Course 1
